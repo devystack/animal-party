@@ -5,3 +5,4 @@
 ## Specifications
 - Blockahin : Cardano blockchain
 - Wallet : Nami wallet
+- IPFS
